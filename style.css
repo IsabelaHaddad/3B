@@ -6,6 +6,9 @@ h1 {
     font-style: italic;
     color: rgb(214, 59, 150);
 }
+h2 {
+    color: aquamarine;
+}
 
 .imagem {
     width: 40%;
