@@ -5,11 +5,20 @@ body{
 h1 {
     font-style: italic;
     color: rgb(214, 59, 150);
+    font-size: larger;
 }
 h2 {
-    color: aquamarine;
+    color: rgb(14, 229, 157);
+    font-weight:200;
 }
 
 .imagem {
     width: 50%;
+}
+.lista {
+    text-align: left;
+    color: rgba(137, 43, 226, 0.598);
+}
+.pizza {
+    color: darkmagenta;
 }
